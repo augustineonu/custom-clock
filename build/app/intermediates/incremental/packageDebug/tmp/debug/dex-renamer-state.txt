@@ -1,0 +1,4 @@
+#Sun Aug 28 01:14:49 WAT 2022
+base.0=C\:\\Users\\Chulen\\Desktop\\Naya\\Flutter\\custom_painter_clock\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
